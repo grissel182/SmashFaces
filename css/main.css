@@ -1,0 +1,24 @@
+img{
+	width: 100%;
+
+}
+.title{
+	background-color: none;
+	color: gray;
+	border-top: 2px solid #30887F;
+	border-bottom: 2px solid #30887F;
+	margin-top: 2%;
+}
+.fondo{
+	background-color: #F2F0F0;
+	padding: 5% 2%;
+	border-top: 2px solid #30887F;
+	border-bottom: 2px solid #30887F;
+	margin-top: 1%;
+}
+.pd-t{
+	padding-top: 3%;
+}
+body{
+	background-color: #F8F6F6 !important;
+}
